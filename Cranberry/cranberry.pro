@@ -1,4 +1,4 @@
-update=2016-07-31 8:39:25 PM
+update=2016-07-31 11:44:46 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../Libraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -55,6 +57,16 @@ LibName25=siliconi
 LibName26=opto
 LibName27=atmel
 LibName28=contrib
-LibName29=valves
-[general]
+LibName29=C:/Users/Nick/Documents/GitHub/Dartmouth/Libraries/Dartmouth_Cust
+LibName30=valves
+LibName31=Dartmouth_Cust
+[schematic_editor]
 version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
